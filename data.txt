@@ -1,0 +1,4 @@
+Š 0 0
+rose 4 1500
+lily 6 2100
+sunflower 9 3200
